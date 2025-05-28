@@ -45,13 +45,6 @@ MoodBasedMusicRecommenderConsoleEditionJava/
 ├── lib/ # External libraries if any
 ├── .gitignore
 └── README.md
-
-yaml
-Copy
-Edit
-
-> Note: Large `.wav` files are not included in the GitHub repo to respect file size limits. You can add your own audio files to the `src/resources/` folder or update the paths accordingly.
-
 ---
 
 ## 🚀 Getting Started
@@ -62,24 +55,10 @@ Edit
    cd MoodBasedMusicRecommenderConsoleEditionJava
 Add your .wav files to a resources/ folder (e.g., src/resources/Happy.wav, etc.).
 
-Compile the project:
-
-bash
-Copy
-Edit
-javac -d bin src/*.java
-Run the program:
-
-bash
-Copy
-Edit
-java -cp bin Main
 ⚠️ Disclaimer
 This project is built for educational/demo purposes.
-
 You must supply your own .wav files due to GitHub's file size restrictions.
 
 🙏 Acknowledgements
 Created with passion to explore Java and music!
-Special thanks to all open-source contributors and Java developers who inspired this project.
 
