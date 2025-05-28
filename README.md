@@ -33,32 +33,10 @@ This is a Java-based console application that plays music based on the user's se
 
 ---
 
-## 📁 Project Structure
-
-MoodBasedMusicRecommenderConsoleEditionJava/
-├── src/
-│ ├── Main.java
-│ ├── PlayHappyMusic.java
-│ ├── PlaySadMusic.java
-│ └── PlayChillMusic.java
-├── bin/ # Compiled .class files (excluded from Git)
-├── lib/ # External libraries if any
-├── .gitignore
-└── README.md
----
-
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/Sathish-Logics/MoodBasedMusicRecommenderConsoleEditionJava.git
    cd MoodBasedMusicRecommenderConsoleEditionJava
-Add your .wav files to a resources/ folder (e.g., src/resources/Happy.wav, etc.).
-
-⚠️ Disclaimer
-This project is built for educational/demo purposes.
-You must supply your own .wav files due to GitHub's file size restrictions.
-
-🙏 Acknowledgements
-Created with passion to explore Java and music!
 
